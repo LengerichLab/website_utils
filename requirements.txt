@@ -1,0 +1,4 @@
+bibtexparser @ git+https://github.com/sciunto-org/python-bibtexparser@770eb001349dcad48149bc101f07cfc88282d8b3
+wordcloud
+matplotlib
+pylint
